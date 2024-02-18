@@ -69,8 +69,8 @@ export const FOOTER_LINKS = [
 export const FOOTER_CONTACT_INFO = {
   title: 'Contact Us',
   links: [
-    { label: 'Admin Officer', value: '7017453595' },
-    { label: 'Email Officer', value: 'sharmadivyanshu265@gmail.com' },
+    { label: 'Phone Number', value: '7017453595' },
+    { label: 'Email Address', value: 'sharmadivyanshu265@gmail.com' },
   ],
 };
 
