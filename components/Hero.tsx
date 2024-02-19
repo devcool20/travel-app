@@ -12,7 +12,7 @@ const Hero = () => {
           alt="camp"
           width={50}
           height={50}
-          className="absolute left-[-5px] top-[-30px] w-10 lg:w-[50px]"
+          className="absolute left-[-5px] top-[-50px] w-10 lg:w-[50px]"
         />
         <h1 className="bold-52 lg:bold-88">Manali Camp Area</h1>
         <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">

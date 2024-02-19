@@ -55,7 +55,7 @@ const Camp = () => {
           backgroundImage="bg-bg-img-1"
           title="Manali Camp"
           subtitle="Bharat"
-          peopleJoined="50+ Joined"
+          peopleJoined="69+ Joined"
         />
         <CampSite 
           backgroundImage="bg-bg-img-2"
